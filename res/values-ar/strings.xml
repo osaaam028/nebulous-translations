@@ -1106,8 +1106,8 @@
     <string name="ENEMY">عدو</string>
     <string name="ALLY">حليف</string>
     <string name="Rename">إعادة التسمية</string>
-    <string name="Set_friendly_name_">حدد اسما لصديقك.</string>
-    <string name="Leave_blank_for_none_">اترك فراغا لعدم التغيير.</string>
+    <string name="Set_friendly_name_">حدد اسماً لصديقك.</string>
+    <string name="Leave_blank_for_none_">اترك فراغاً لعدم التغيير.</string>
     <string name="Vote_Kick">طرد اللاعب</string>
     <string name="FONT">نوع الخط</string>
     <string name="CIRCLE">دائرة</string>
@@ -1165,7 +1165,7 @@
     <string name="Reason">السبب</string>
     <string name="PUBLIC">عـامة</string>
     <string name="PRIVATE">خـاصة</string>
-    <string name="Joined">الأنضمامات</string>
+    <string name="Joined">الإنضمامات</string>
     <string name="Requests">الطلبات</string>
     <string name="Invites">الدعوات</string>
     <string name="Show_Spectator_Count">إظهار عداد المشاهدة</string>
@@ -1185,7 +1185,7 @@
     <string name="Max_XP_Chain_">:سلسلة الخبرة القصوى</string>
     <string name="POSITION_CANCEL_BUTTON">الغاء موقع الزر</string>
     <string name="INVISIBILITY">خاصية الاخفاء</string>
-    <string name="Set_Skin">وضع البشرة </string>
+    <string name="Set_Skin">وضع البشرة</string>
     <string name="Primary">ابتدائي )اساسي)</string>
     <string name="Secondary">ثانوي</string>
     <string name="Both">اثنين معاً</string>
@@ -1220,7 +1220,7 @@
     <string name="Play_Nebulous_For_1_Year_">ألعب نيبلوس لمُدَّة 1 سنة!</string>
     <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d سنة!</string>
     <string name="Starting___">بدء…</string>
-    <string name="Tournament_Starting">البُطولة بدأءت</string>
+    <string name="Tournament_Starting">البُطولة بدأت</string>
     <string name="Max_Tilt_Angle_3D_">زاوية الميل القصوى ثلاثي الأبعاد</string>
     <string name="Mode_3D">وضع ثلاثي الأبعاد</string>
     <string name="Names_Below_Blobs">معلومات اللاعب تحت الدائرة</string>
@@ -1237,7 +1237,7 @@
     <string name="Collected_">جُمِعت:</string>
     <string name="Collisions_">تَعارُض:</string>
     <string name="Absorbed_">مُنهَمِك:</string>
-    <string name="team_warning">" جعل خصمُك من الفريق سيؤدي ذلك إلى حظرك من اللعبة."</string>
+    <string name="team_warning">جعل خصمُك من الفريق سيؤدي ذلك إلى حظرك من اللعبة"</string>
     <string name="Search_Filter">تصفيّة البَحِث</string>
     <string name="Received_">تم الاستلام:</string>
     <string name="Opponent_Rating_Limit_">حد تصنيف الخصم</string>
@@ -1274,7 +1274,7 @@
     <string name="x4_Clan_XP_7_days">4x نقاط خبرة العشيرة لمُدَّة 7 ايَّام.</string>
     <string name="x4_Clan_XP_1_Day">4x نقاط خبرة العشيرة لمُدَّة يوم</string>
     <string name="CHARGE_UP">الشُحنْةُ</string>
-    <string name="CLAN_DESCRIPTION_COLOR">لونِ وصف العشيرة</string>
+    <string name="CLAN_DESCRIPTION_COLOR">لون وصف العشيرة</string>
     <string name="Responsible_Pet_Owner">مسؤول الحيوانات الأليفة</string>
     <string name="Animal_Tamer">مُروِّض الحيوان</string>
     <string name="Crocodile_Hunter">صياد التمساح</string>
@@ -1301,7 +1301,7 @@
     <string name="SET_EMOTE">ضع مُلصقاً</string>
     <string name="Winner_Winner_Chicken_Dinner">رابح، والدجاج هو العَشاء!</string>
     <string name="Win_a_Battle_Royale_">حقق إنتصار في صِراع حتى النهاية.</string>
-    <string name="Battle_">صِراع !</string>
+    <string name="Battle_">صِراع!</string>
     <string name="BATTLE_ROYALE">صِراع حتى النهاية!</string>
     <string name="Battle_Royale">صِراع حتى النهاية!</string>
     <string name="The_winner_will_receive_x_plasma_">الفائِز سوف يَحصُل على %s بلازما!</string>
