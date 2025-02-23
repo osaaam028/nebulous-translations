@@ -26,20 +26,20 @@
     <string name="Are_You_Sure_">"هل أنت متأكد؟"</string>
     <string name="Yes">"نعم"</string>
     <string name="No">"لا"</string>
-    <string name="WAIT">"انتظر …"</string>
+    <string name="WAIT">"إنتظر …"</string>
     <string name="Must_Specify_Name_">"يجب تحديد الإسم."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
 
-    <string name="_Rank_">" المرتبة "</string>
+    <string name="_Rank_">" ألمرتبة "</string>
     <string name="_Alias_">" الإسم المُستعار "</string>
-    <string name="_Score_">" النقاط "</string>
-    <string name="Score__">"النقاط: "</string>
+    <string name="_Score_">" ألنقاط "</string>
+    <string name="Score__">"ألنقاط: "</string>
     <string name="Recombine_">"إعادة التجميع: "</string>
     <string name="WINNER_">"الفائز:"</string>
     <string name="IDLE">"خمول"</string>
     <string name="Name_Invalid_">"الإسم غير صالح !"</string>
-    <string name="Name_Taken_">"الاسم مستعمل."</string>
+    <string name="Name_Taken_">"الإسم مستعمل."</string>
     <string name="CONNECTED">"مُتصل"</string>
     <string name="JOINING___">"جاري الدخول …"</string>
     <string name="PLAYING">"في طور اللعب"</string>
@@ -55,37 +55,37 @@
 
 
     <string name="SERVER">"سيرفر"</string>
-    <string name="Joining_game_in_">"الانضمام للعبة "</string>
-    <string name="Game_Full">"اللعبه ممتلئة"</string>
+    <string name="Joining_game_in_">"الإنضمام للعبة "</string>
+    <string name="Game_Full">"أللعبه ممتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
     <string name="US_West">"غرب الولايات المتحدة"</string>
-    <string name="Europe">"اوروبا"</string>
-    <string name="South_America">"امريكا الجنوبية"</string>
+    <string name="Europe">"أوروبا"</string>
+    <string name="South_America">"أمريكا الجنوبية"</string>
 
 
     <string name="SINGLE_PLAYER">"لاعب واحد"</string>
-    <string name="Background_">"الخلفية:"</string>
-    <string name="Difficulty_">"الصعوبة"</string>
+    <string name="Background_">"ألخلفية:"</string>
+    <string name="Difficulty_">"ألصعوبة"</string>
     <string name="Delay_Disconnect">"تأخير قطع الإتصال"</string>
 
-    <string name="Max_Players">"الحد الأقصى للاعبين"</string>
-    <string name="Min_Players">"الحد الأدنى للاعبين"</string>
+    <string name="Max_Players">"ألحد الأقصى للاعبين"</string>
+    <string name="Min_Players">"ألحد الأدنى للاعبين"</string>
 
-    <string name="OK">"حسنًا"</string>
+    <string name="OK">"حسناً"</string>
     <string name="CANCEL">"إلغاء"</string>
-    <string name="Chat_Name">"اسم الدردشة"</string>
-    <string name="Max_People">"الحد الأقصى للناس"</string>
-    <string name="START">"البداية"</string>
+    <string name="Chat_Name">"إسم الدردشة"</string>
+    <string name="Max_People">"ألحد الأقصى للناس"</string>
+    <string name="START">"ألبداية"</string>
     <string name="CREATE">"إنشاء"</string>
     <string name="CUSTOM_GAMES">"ألعاب مخصصة"</string>
-    <string name="CHAT">"الدردشة"</string>
+    <string name="CHAT">"ألدردشة"</string>
     <string name="CUSTOM_SETUP">"إعدادات مخصصة"</string>
     <string name="CHAT_SETUP">"إعدادات الدردشة"</string>
 
 
     <string name="ACCOUNT">"حساب"</string>
-    <string name="Red_Team">"الفريق الأحمر"</string>
-    <string name="Green_Team">"الفريق الأخضر"</string>
+    <string name="Red_Team">"ألفريق الأحمر"</string>
+    <string name="Green_Team">"ألفريق الأخضر"</string>
     <string name="Blue_Team">"الفريق الأزرق"</string>
     <string name="Yellow_Team">"الفريق الأصفر"</string>
     <string name="Signed_in_as_">"تم تسجيل الدخول كـ:"</string>
@@ -256,14 +256,14 @@
     <string name="Server_Restart_">"إعادة تشغيل السيرفر:"</string>
     <string name="GOAL_">"هدف!"</string>
     <string name="SOCCER">"كرة القدم"</string>
-    <string name="DRAW">"تعادل"</string>
+    <string name="DRAW">"تعادُل"</string>
 
-    <string name="Clan_Name">"اسم العشيرة"</string>
+    <string name="Clan_Name">"إسم العشيرة"</string>
     <string name="Clan">"العشيرة"</string>
 
 
-    <string name="JOIN_CLAN">"انضم للعشيرة"</string>
-    <string name="JOIN_RANDOM_CLAN">"انضمام لعشيرة عشوائية"</string>
+    <string name="JOIN_CLAN">"إنضم للعشيرة"</string>
+    <string name="JOIN_RANDOM_CLAN">"إنضمام لعشيرة عشوائية"</string>
     <string name="LEAVE_CLAN">"الخروج من العشيرة"</string>
     <string name="INVITE_MEMBER">"دعوة لاعب"</string>
     <string name="REMOVE_MEMBER">"إزالة العضو"</string>
@@ -334,8 +334,8 @@
     <string name="Reach_a_score_of_">"الوصول إلى الدرجة "</string>
     <string name="_in_a_FFA_Game">" في لعبة حر للجميع"</string>
     <string name="_in_a_Teams_Game">" في لعبة الفرق"</string>
-    <string name="_dots">" النقاط"</string>
-    <string name="_player_blobs">" دائرة اللاعب"</string>
+    <string name="_dots">"النقاط"</string>
+    <string name="_player_blobs">"دائرة اللاعب"</string>
     <string name="Absorb_">"استوعب "</string>
     <string name="Collect_">"جمع "</string>
 
@@ -1120,7 +1120,7 @@
     <string name="Level_Colors">ألوان المستوى</string>
     <string name="click_info">مسرع الضغط او مسرع الضغط الفائق لا يعمل في وضع الحر للجميع الكلاسيكية!</string>
     <string name="Hooked">مُعلَق</string>
-    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">لقد علقت في خطاف لمدة 10ثواني</string>
+    <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">لقد علِقت في خطاف لمدة 10ثواني</string>
     <string name="Pack">حزمة</string>
     <string name="Skin_Pack">حزمة اشكال</string>
     <string name="SKIN_PACK">حزمة اشكال</string>
@@ -1177,34 +1177,34 @@
     <string name="DARK_MATTER">مادة مُظلِمه</string>
     <string name="Textures_will_be_regenerated_">سيتم تجديد القوام الأسود والأشكال المخصصة</string>
     <string name="Enable_Profile_Colors">تفعيل الوان الخلفية</string>
-    <string name="Session_Stats">احصائيات الجلسة</string>
+    <string name="Session_Stats">إحصائيات الجلسة</string>
     <string name="Time_">:الزمن</string>
     <string name="Show_Session_Stats">إظهار احصائيات الموسم</string>
     <string name="VALENTINES_DAY">"يوم الحب"</string>
     <string name="Giveaways_">!هدايا</string>
-    <string name="Max_XP_Chain_">:سلسلة الخبرة القصوى</string>
+    <string name="Max_XP_Chain_">:سلسلة الخِبرة القصوى</string>
     <string name="POSITION_CANCEL_BUTTON">الغاء موقع الزر</string>
     <string name="INVISIBILITY">خاصية الاخفاء</string>
-    <string name="Set_Skin">وضع البشرة </string>
+    <string name="Set_Skin">وضع الجِلد </string>
     <string name="Primary">ابتدائي )اساسي)</string>
     <string name="Secondary">ثانوي</string>
-    <string name="Both">اثنين معاً</string>
+    <string name="Both">إثنين معاً</string>
 
     <string name="Enable__Multiskin">"تفعيل \n متعددة الجلد"</string>
     <string name="MULTISKIN">مُتعددة الجِلد</string>
-    <string name="DISABLED">الغاء التفعيل</string>
+    <string name="DISABLED">إلغاء التفعيل</string>
 
     <string name="Refund__Multiskin">استعادة نقودك /nMultiskin</string>
     <string name="Invalid_Clan_ID_">اسم العشيرة غير صالح</string>
     <string name="MUTED">"حُظِر من الدَردَشة"</string>
-    <string name="SKIN">سكن</string>
-    <string name="Choose_Skin_Size">اختر حجم سكنك</string>
+    <string name="SKIN">جِلد</string>
+    <string name="Choose_Skin_Size">اختر حجم جِلدك</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">لن يتمكن اللاعبين الاخرين من سماعك!</string>
     <string name="Allow_permission_to_enable_voice_recording_">السماح بأذن لتمكين التسجيل الصوتي</string>
     <string name="voice_chat_prompt">للحصول على أفضل صوت أستخدم سماعة الرأس..</string>
     <string name="Only_leader_can_answer_requests_">"فَقط القائد يستطيع قبول الطلبات</string>
     <string name="Sent_request_not_invited_">تم ارسال طلبك (لست مدعو).</string>
-    <string name="REMOVE_SKIN_FROM_COMMUNITY_">أحذف السكن من المُجتمع!</string>
+    <string name="REMOVE_SKIN_FROM_COMMUNITY_">أحذف الجِلد من المُجتمع!</string>
     <string name="This_cannot_be_undone_">هذه لا يمكن التراجع عنها.!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">شاهد فيديو للحصول على مكافآة  %d مؤقتة!</string>
     <string name="WATCH_VIDEO_">شاهد فيديو!</string>
@@ -1230,7 +1230,7 @@
     <string name="Show_Boost_Button">إظهار زر التعزيز</string>
     <string name="Spectate_Killer_On_Death">مُشاهدة القاتل</string>
     <string name="Rainbow_Holes">ثُقب قوس قزح</string>
-    <string name="LIFE_STEAL">سرقة الحياة</string>
+    <string name="LIFE_STEAL">سرِقة الحياة</string>
     <string name="Kicked_From_Game_">تَم طَـردُك من الغُرفة</string>
     <string name="Conquest">غَلَبة</string>
     <string name="Finish_the_last_mission_in_the_campaign_">انهِ المُهمه الأخيرة في الحملة</string>
@@ -1251,17 +1251,17 @@
     <string name="MINIMAP">"الخريطة المصغرة"</string>
     <string name="Victorious">مُنتصراً</string>
     <string name="Dominant">مُهيمن</string>
-    <string name="Champion">بطل</string>
+    <string name="Champion">بَطل</string>
     <string name="Win_10_Tournaments">حقق 10 فوز في البطولة</string>
     <string name="Win_100_Tournaments">حقق 100 فوز في البطولة</string>
-    <string name="HERO">محارب</string>
+    <string name="HERO">محارِب</string>
     <string name="CHAMPION">بطل</string>
     <string name="DASH">إندفاع</string>
     <string name="setting_changed">تحديث الضبط، قد تحتاج إلى إعادة الأتصال بالخادم حتى يتم تفعيله.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">قم بفِعل 10،000 ترك في طور الحركات.</string>
-    <string name="Tricky">مخادع</string>
-    <string name="SUPPORTER">مميز</string>
-    <string name="CONQUEROR">المنتصر</string>
+    <string name="Tricky">مُخادع</string>
+    <string name="SUPPORTER">مُميز</string>
+    <string name="CONQUEROR">ألمنتصر</string>
     <string name="TRICKY">مخادع</string>
     <string name="x4_XP_Permanent">4x نقاط خبرة دائِم.</string>
     <string name="x4_XP_24_hours">4x نقاط خبرة لمُدَّة 24 ساعة.</string>
@@ -1330,7 +1330,7 @@ Commands:
     <string name="Attackers">المُهاجِمون</string>
     <string name="MEGA_SPLIT">64x قسمة كبير</string>
     <string name="Missing_Permissions">أذونات مفقودة</string>
-    <string name="DELETE_ACCOUNT">حذف الحساب</string>
+    <string name="DELETE_ACCOUNT">حذف الحِساب</string>
     <string name="delete_prompt">هل أنت متأكد انك تريد حذف حسابك؟ هذا دائم ولا يمكن التراجع عن ذلك! اكتب للحذف!: DELETE ID</string>
 
 
@@ -1376,7 +1376,7 @@ Commands:
     <string name="pm">الخاص</string>
     <string name="You_are_already_friends_">أنتم بالفعل أصدقاء.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">يجب أن يكون عمر الحساب يومًا واحدًا لإرسال البريد.</string>
-    <string name="Translator">متـرجـم</string>
+    <string name="Translator">مُتـرجـم</string>
     <string name="SUCCESS">تم بنجاح</string>
 
 
